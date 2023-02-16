@@ -1,0 +1,12 @@
+pandas>=1.5.2
+Flask==2.2.2
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn
+
+
